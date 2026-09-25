@@ -61,7 +61,3 @@ I work across the full IoT chain: from **PCB design** and **register-level firmw
 ### 🌍 Languages
 
 English · French · Arabic (native) · German (elementary)
-
----
-
-<p align="center"><i>Open to Embedded Software Engineering opportunities. Feel free to reach out on LinkedIn or by email.</i></p>

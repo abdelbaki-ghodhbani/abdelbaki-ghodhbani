@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelbaki-ghodhbani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ghodhbaniabdelbaki8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LoRaWAN-1B5E20?style=flat-square&logo=thethingsnetwork&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -40,6 +42,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**STM32 + ESP8266 Wi-Fi Home Control**](https://github.com/abdelbaki-ghodhbani/pfe_project_comelit) | Bare-metal ESP8266 driver and embedded TCP web server to switch a device on/off from a browser (final-year project at Comelit) | C · STM32F401 · ESP8266 AT · UART |
+| [**LoRaWAN Cold Chain Monitoring**](https://github.com/abdelbaki-ghodhbani/LoRaWAN-Cold-Chain-Monitoring) | End-to-end IoT system: LoRaWAN temperature node → The Things Network → MQTT → real-time dashboard with alerts (Tinest internship) | Arduino · LoRaWAN · MQTT · Python/Dash |
 | [**Connected Weather Station**](https://github.com/abdelbaki-ghodhbani/weather_station_project) | Reads temperature and humidity and uploads it to the ThingSpeak cloud over Wi-Fi | C · STM32 HAL · DHT11 · ESP8266 |
 | [**Temperature Regulation System**](https://github.com/abdelbaki-ghodhbani/Temperature-Regulation-System) | Desktop Qt app that shows live temperature from an Arduino and controls a fan motor | C++ · Qt · Arduino · DS18B20 |
 

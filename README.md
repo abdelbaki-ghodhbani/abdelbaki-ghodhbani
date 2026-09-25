@@ -41,10 +41,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**STM32 + ESP8266 Wi-Fi Home Control**](https://github.com/abdelbaki-ghodhbani/pfe_project_comelit) | Bare-metal ESP8266 driver and embedded TCP web server to switch a device on/off from a browser (final-year project at Comelit) | C · STM32F401 · ESP8266 AT · UART |
+| [**STM32 + ESP8266 Wi-Fi Home Control**](https://github.com/abdelbaki-ghodhbani/pfe_project_comelit) | Bare-metal, register-level drivers (UART, SysTick, GPIO) on the NUCLEO-F401RE and an ESP8266 TCP web server to switch a device on/off from a browser (graduation project at Comelit) | C · STM32F401RE · CMSIS · ESP8266 AT |
 | [**LoRaWAN Cold Chain Monitoring**](https://github.com/abdelbaki-ghodhbani/LoRaWAN-Cold-Chain-Monitoring) | End-to-end IoT system: LoRaWAN temperature node → The Things Network → MQTT → real-time dashboard with alerts (Tinest internship) | Arduino · LoRaWAN · MQTT · Python/Dash |
 | [**Connected Weather Station**](https://github.com/abdelbaki-ghodhbani/weather_station_project) | Reads temperature and humidity and uploads it to the ThingSpeak cloud over Wi-Fi | C · STM32 HAL · DHT11 · ESP8266 |
-| [**Temperature Regulation System**](https://github.com/abdelbaki-ghodhbani/Temperature-Regulation-System) | Desktop Qt app that shows live temperature from an Arduino and controls a fan motor | C++ · Qt · Arduino · DS18B20 |
+| [**Temperature Regulation System**](https://github.com/abdelbaki-ghodhbani/Temperature-Regulation-System) | Qt desktop app that shows live temperature from an Arduino and drives a PWM fan with proportional control | C++ · Qt · Arduino · DS18B20 |
 
 ---
 
